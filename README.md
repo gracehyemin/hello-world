@@ -2,5 +2,7 @@
 Random repository
 =================
 
-G here
+Hi all,
+
+G here.
 This is slowly getting interesting.
